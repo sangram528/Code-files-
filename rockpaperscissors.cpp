@@ -1,6 +1,6 @@
 #include<iostream>
 #include<ctime>
-
+//this is an incomplete code i'll complete it later....maybe
 char getUserChoice();
 char getComputerChoice();
 void showChoice(char choice);
