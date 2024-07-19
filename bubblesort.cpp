@@ -1,7 +1,7 @@
 #include<iostream>
 
 ///bubble sort 
-
+///In bubble sort we compare the current number to the next number in the index and inf they are greater, they are swapped places. Not an efficient way of sorting. 
 void ascendingsort(int array[], int size);
 void descendingsort(int array[], int size);
 int main(){
