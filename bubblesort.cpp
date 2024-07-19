@@ -10,7 +10,7 @@ int main(){
     int size = sizeof(array)/sizeof(array[0]);
     std::cout<<"Enter the elements of array: \n";
     for(int i=0;i<size;i++){
-        std::cout<<"Index "<<i<<":\n";
+        std::cout<<"# "<<i+1<<":\n";
         std::cin>>array[i];
     }
     std::cout<<"\nOriginal Array: \n";
