@@ -1,6 +1,6 @@
 #include<iostream>
 
-class Animal{
+class Animal{                  //This is parent class 
 
     public:
         bool alive = true;
